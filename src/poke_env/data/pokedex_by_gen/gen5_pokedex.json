@@ -17289,6 +17289,7 @@
             "M": 0.875
         },
         "heightm": 0.6,
+        "maleOnlyHidden": true,
         "name": "Panpour",
         "num": 515,
         "types": [
@@ -17321,6 +17322,7 @@
             "M": 0.875
         },
         "heightm": 0.6,
+        "maleOnlyHidden": true,
         "name": "Pansage",
         "num": 511,
         "types": [
@@ -17353,6 +17355,7 @@
             "M": 0.875
         },
         "heightm": 0.6,
+        "maleOnlyHidden": true,
         "name": "Pansear",
         "num": 513,
         "types": [
@@ -21170,6 +21173,32 @@
         ],
         "weightkg": 161
     },
+    "saharaja": {
+        "abilities": {
+            "0": "Water Absorb",
+            "1": "Serene Grace"
+        },
+        "baseStats": {
+            "atk": 120,
+            "def": 105,
+            "hp": 70,
+            "spa": 65,
+            "spd": 130,
+            "spe": 90
+        },
+        "color": "White",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "gen": 8,
+        "heightm": 2.3,
+        "name": "Saharaja",
+        "num": -68,
+        "types": [
+            "Ground"
+        ],
+        "weightkg": 303.9
+    },
     "salamence": {
         "abilities": {
             "0": "Intimidate",
@@ -22704,6 +22733,7 @@
             "M": 0.875
         },
         "heightm": 1,
+        "maleOnlyHidden": true,
         "name": "Simipour",
         "num": 516,
         "prevo": "Panpour",
@@ -22736,6 +22766,7 @@
             "M": 0.875
         },
         "heightm": 1.1,
+        "maleOnlyHidden": true,
         "name": "Simisage",
         "num": 512,
         "prevo": "Pansage",
@@ -22768,6 +22799,7 @@
             "M": 0.875
         },
         "heightm": 1,
+        "maleOnlyHidden": true,
         "name": "Simisear",
         "num": 514,
         "prevo": "Pansear",
